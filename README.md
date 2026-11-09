@@ -1,0 +1,16 @@
+# Gikomba Market Stall Performance Analysis
+
+**Name:** Nokukhanya Khanyisani  
+**Cohort:** Power Learn Project - Data Analytics  
+
+## Business Problem Summary
+Wanjiku runs a fresh-produce stall at Gikomba Market in Nairobi and has recorded her daily sales and stock levels in a notebook over the past two weeks. Without formal analytical tools, she needs to understand her overall business performance, revenue growth trends between weeks, weekend versus weekday purchasing patterns, inventory restocking needs, and profit margins to optimize her stall's daily operations and profitability.
+
+## How to Run
+You can run the analysis interactively in Google Colab by clicking the link below:  
+**Open in Colab:** https://colab.research.google.com/github/Khanyisani800/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb
+
+## Top Three Findings
+1. **Strong Week-on-Week Growth:** Total sales increased from KES 20,400 in Week 1 to KES 26,000 in Week 2, delivering a robust 27.45% growth rate.
+2. **Weekend Sales Superiority:** Average daily sales on weekends (KES 4,650) outpace weekdays (KES 3,080) by 50.97%, highlighting high weekend foot traffic.
+3. **Critical Reorder Alerts:** Sukuma (qty: 9 kg vs. reorder: 15 kg), Tomatoes (qty: 18 kg vs. reorder: 25 kg), and Avocado (qty: 12 kg vs. reorder: 10 kg) require immediate restocking to prevent stockouts.
