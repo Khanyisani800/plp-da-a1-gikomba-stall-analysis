@@ -8,7 +8,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market in Nairobi and has recorded
 
 ## How to Run
 You can run the analysis interactively in Google Colab by clicking the link below:  
-**Open in Colab:** https://colab.research.google.com/github/Khanyisani800/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb
+**Open in Colab:** https://colab.research.google.com/github/Khanyisani800/plp-da-a1-gikomba-stall_analysis/blob/main/stall_analysis.ipynb
 
 ## Top Three Findings
 1. **Strong Week-on-Week Growth:** Total sales increased from KES 20,400 in Week 1 to KES 26,000 in Week 2, delivering a robust 27.45% growth rate.
