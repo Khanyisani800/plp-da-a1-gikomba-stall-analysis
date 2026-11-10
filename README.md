@@ -11,6 +11,6 @@ You can run the analysis interactively in Google Colab by clicking the link belo
 **Open in Colab:** https://colab.research.google.com/github/Khanyisani800/plp-da-a1-gikomba-stall_analysis/blob/main/stall_analysis.ipynb
 
 ## Top Three Findings
-1. **Strong Week-on-Week Growth:** Total sales increased from KES 20,400 in Week 1 to KES 26,000 in Week 2, delivering a robust 27.45% growth rate.
-2. **Weekend Sales Superiority:** Average daily sales on weekends (KES 4,650) outpace weekdays (KES 3,080) by 50.97%, highlighting high weekend foot traffic.
-3. **Critical Reorder Alerts:** Sukuma (qty: 9 kg vs. reorder: 15 kg), Tomatoes (qty: 18 kg vs. reorder: 25 kg), and Avocado (qty: 12 kg vs. reorder: 10 kg) require immediate restocking to prevent stockouts.
+1. **Strong Week-on-Week Growth:** Total sales increased from KES 22,050 in Week 1 to KES 24,400 in Week 2, delivering a robust 10.66% growth rate.
+2. **Weekend Sales Superiority:** Average daily sales on weekends (KES 4,900) outpace weekdays (KES 2,685) by 82.50%, highlighting high weekend foot traffic.
+3. **Critical Reorder Alerts:** Sukuma (qty: 9 kg vs. reorder: 15 kg) and Tomatoes (qty: 18 kg vs. reorder: 25 kg) require immediate restocking to prevent stockouts, while Avocado is safely above its reorder threshold.
